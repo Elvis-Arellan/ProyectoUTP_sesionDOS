@@ -15,6 +15,6 @@ public class Programa01 {
         // proceso de datos
         radianes = Math.toRadians(grados);
         // salida de resultados
-        System.out.println("El ángulo en radianess ess: " + radianes);
+        System.out.println("El ángulo en radianes es: " + radianes);
     }
 }
