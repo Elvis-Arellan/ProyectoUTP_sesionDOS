@@ -3,7 +3,7 @@ package programas_ejercicios_utp;
 import java.util.Scanner;
 
 public class Condicionales_tarea_ejercicio1 {
-    public static void main(String[] str){
+    public static void main(String[] args){
         // declarar variables
         int numero;
         String mensaje="";
