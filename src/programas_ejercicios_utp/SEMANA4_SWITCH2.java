@@ -1,8 +1,5 @@
-
 package programas_ejercicios_utp;
-
 import java.util.Scanner;
-
 public class SEMANA4_SWITCH2 {
     public static void main(String[] args) {
         Scanner lectura = new Scanner(System.in);
