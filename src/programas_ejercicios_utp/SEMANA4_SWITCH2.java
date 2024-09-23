@@ -32,7 +32,7 @@ public class SEMANA4_SWITCH2 {
                 System.out.println("Insuficiente");
                 break;
             default:
-                System.out.println("Calificación no válida.");
+                System.out.println("Calificación no válidaaa.");
                 break;
         }
     }

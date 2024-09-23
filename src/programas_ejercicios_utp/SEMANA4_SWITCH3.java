@@ -33,7 +33,7 @@ public class SEMANA4_SWITCH3 {
                 System.out.println("C");
                 break;
             default:
-                System.out.println("Calificación no válida. Ingrese un número entre 0 y 10.");
+                System.out.println("Calificación no válidaa. Ingrese un número entre 0 y 10.");
                 break;
         }
     }
