@@ -14,7 +14,7 @@ public class Condicionales_tarea_ejercicio1 {
         numero = lectura.nextInt();
         // estructura condicional simple
         if(numero > 0){
-            mensaje="El número es positivo";
+            mensaje="El número es positivooo";
         }
         System.out.println(mensaje);
     }
